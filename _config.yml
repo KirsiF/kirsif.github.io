@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: kirsif.github.io
+title: Social Data Analysis and Visualization - Assignment 2
 email: your-email@example.com
 description:  >- 
-  This is my GitHub Pages site for 02806 Social Data Analysis and Visualization course.
+   A data story about vandalism in San Francisco from 2003–2024.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kirsif.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  ZhanhuiQu
 
 # Build settings
 theme: minima
